@@ -6,4 +6,4 @@ the selected end date is exceeded.
 You can set your end date by editing the script in the beginning
 of the index.html file. There are variables for the year, month, day,
 hour minute and second of your end date.
-![My image](https://github.com/serious-scribbler/Fast-Maintenance/date_changing.PNG)
+![Date changing](https://raw.githubusercontent.com/serious-scribbler/Fast-Maintenance/master/date_changing.PNG)
